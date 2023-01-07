@@ -1,0 +1,28 @@
+.Trending {
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 100vw;
+  color: aliceblue;
+  min-height: fit-content;
+  margin-top: 20px;
+}
+.Trending h3{
+  text-align: center;
+  font-size: xx-large;
+  border-bottom: 2px solid white;
+
+}
+
+
+.mov {
+  display: flex;
+  flex-wrap: wrap;
+  min-width: 100vw;
+  height: fit-content;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(16, 0, 67, 0.699);
+  border-bottom: 2px solid white ;
+}

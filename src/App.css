@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+.app{
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+Main{
+  z-index: 3;
+}
+.moviesDiv{
+  background-color: rgba(0, 0, 0, 0.715);
+}
